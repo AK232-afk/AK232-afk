@@ -8,5 +8,5 @@ I am currently on JUSTIT bootcamp doing Level 3 data analytics for 8 weeks learn
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [ashwen.kilbert@gmail.com](mailto:ashwen.kilbert@gmail.com)
-* 🧠  I'm learning Level 3 data Analytics in JUSTIT bootcamp
+* 🧠  I'm learning Currently learning Level 3 data Analytics in JUSTIT bootcamp
 * ⚡  I am interested in Sudoku puzzles and word searches in my spare time whilst learning new things along the way being adaptable and flexible.
